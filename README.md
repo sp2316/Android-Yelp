@@ -1,6 +1,6 @@
 # Android-Yelp
 
-**Youtube Link of the App** : <a href="https://youtu.be/9mXaNNNp0CU" target="_blank"> Link </a>
+**Youtube Link of the App** : <a href="https://youtu.be/9mXaNNNp0CU" target="_blank"> Link  </a>
 
 This is an Android Application implementing the yelp App with basic functionality in Java with Node.js as backend, which allows users to search for 
 restaurants and businesses and look at detailed information about them.
