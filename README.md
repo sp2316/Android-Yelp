@@ -18,7 +18,7 @@ It has the following features -
 I have shown all the features in the link mentioned above..
 For source code or any queries regarding the implementation of the app, kindly contact me at **saiprasadpalivela@gmail.com**
 
-This app has been designed and implemented in a Pixel 5 emulator by using SDK API 30.
+This app has been designed and implemented in a Pixel 5 emulator by using SDK API 31.
 
 
 <img src="https://user-images.githubusercontent.com/39809810/208668255-b763cf41-5808-49ac-9ef9-4148fc328ccb.png" width="300" height="550"/>
