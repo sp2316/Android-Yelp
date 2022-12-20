@@ -1,6 +1,6 @@
 # Android-Yelp
 
-**Youtube Link of the App** : https://youtu.be/9mXaNNNp0CU
+**Youtube Link of the App** : <a href="https://youtu.be/9mXaNNNp0CU" target="_blank"/>
 
 This is an Android Application implementing the yelp App with basic functionality in Java with Node.js as backend, which allows users to search for 
 restaurants and businesses and look at detailed information about them.
@@ -16,7 +16,10 @@ It has the following features -
 - Swipe to delete functionality and many more..
 
 I have shown all the features in the link mentioned above..
-For source code or any queries regarding the implementation of the app, kindly contact me at **saiprasadpalivela@gmail.com**
+
+**Source code available upon request by prospective employers**
+
+**For source code or any queries regarding the implementation of the app, kindly contact me at**  **saiprasadpalivela@gmail.com** 
 
 This app has been designed and implemented in a Pixel 5 emulator by using SDK API 31.
 
