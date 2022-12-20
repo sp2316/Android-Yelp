@@ -2,7 +2,7 @@
 
 **Youtube Link of the App** : https://youtu.be/9mXaNNNp0CU
 
-This is an Android Application implmenting the yelp App with basic functionality in Java with Node.js as backend, which allows users to search for 
+This is an Android Application implementing the yelp App with basic functionality in Java with Node.js as backend, which allows users to search for 
 restaurants and businesses and look at detailed information about them.
 
 Additionally, the users can schedule a reservation. Which they can review and also cancel if needed. These features  among others are spread out over multiple activities and fragments
